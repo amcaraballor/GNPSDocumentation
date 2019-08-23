@@ -5,6 +5,8 @@ This is a quickstart guide that will enable you to prepare your data, create a G
 
 Convert vendor formats to open formats using MSConvert locally. Checkout this [documentation](fileconversion.md).
 
+## Add documentation for data conversion
+
 ## Create a GNPS Account
 
 Account registration is a simple process, and completely private – GNPS will never use your contact information for any reason other than to email you the outcome of your dataset submissions and other workflows. To register an account, navigate to the [GNPS web site](https://gnps.ucsd.edu/). Here you will find a registration link in the upper right corner of the page, just below the login box.
